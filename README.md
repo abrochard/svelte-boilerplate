@@ -1,6 +1,6 @@
 # svelte-boilerplate
 
-Personal boilerplate package for [svelte](svelte.dev) projects
+Personal boilerplate package for [svelte](https://svelte.dev) projects
 
 ## Setup
 ```
